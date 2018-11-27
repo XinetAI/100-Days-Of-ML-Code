@@ -1,5 +1,7 @@
 # 机器学习100天
 
+[火爆GitHub：100天搞定机器学习编程，超赞信息图+代码](https://zhuanlan.zhihu.com/p/41315875)
+
 英文原版请移步[Avik-Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)。数据在[这里](https://github.com/MachineLearning100/100-Days-Of-ML-Code/tree/master/datasets)。
 
 翻译前请先阅读[规范](Translation%20specification.MD)。常见问题解答见[FAQ](FAQ.MD)。
